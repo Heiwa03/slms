@@ -1,0 +1,15 @@
+/home/heiwa/git/slms/bin/Debug/net8.0/slms
+/home/heiwa/git/slms/bin/Debug/net8.0/slms.deps.json
+/home/heiwa/git/slms/bin/Debug/net8.0/slms.runtimeconfig.json
+/home/heiwa/git/slms/bin/Debug/net8.0/slms.dll
+/home/heiwa/git/slms/bin/Debug/net8.0/slms.pdb
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.GeneratedMSBuildEditorConfig.editorconfig
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.AssemblyInfoInputs.cache
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.AssemblyInfo.cs
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.csproj.CoreCompileInputs.cache
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.sourcelink.json
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.dll
+/home/heiwa/git/slms/obj/Debug/net8.0/refint/slms.dll
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.pdb
+/home/heiwa/git/slms/obj/Debug/net8.0/slms.genruntimeconfig.cache
+/home/heiwa/git/slms/obj/Debug/net8.0/ref/slms.dll

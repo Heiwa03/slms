@@ -1,4 +1,4 @@
-# Library Management System
+# Simple Library Management System
 
 Laboratory task nr.1 for OOP subject
 

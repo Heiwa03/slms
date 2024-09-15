@@ -1,5 +1,7 @@
 # Library Management System
 
+Laboratory task nr.1 for OOP subject
+
 This is a simple console-based Library Management System implemented in C#. The system allows users to add, remove, and print books in a library. It also provides a menu-driven interface for user interaction.
 
 ## Features

@@ -45,7 +45,7 @@
         {
             case 1:
                 Console.WriteLine("Enter title:");
-                string title;
+                string title = string.Empty;
                 if (string.IsNullOrWhiteSpace(title = Console.ReadLine()))
                 {
                     Console.WriteLine("Title cannot be empty. Please enter a valid title.");
@@ -53,7 +53,7 @@
                 }
 
                 Console.WriteLine("Enter author:");
-                string author;
+                string author = string.Empty;
                 if (string.IsNullOrWhiteSpace(author = Console.ReadLine()))
                 {
                     Console.WriteLine("Authon line empty. Will consider as Anonymous.");
@@ -67,7 +67,7 @@
                     continue;
                 }
                 Console.WriteLine("Enter ISBN:");
-                string isbn;
+                string isbn = string.Empty;
                 if (string.IsNullOrWhiteSpace(isbn = Console.ReadLine()))
                 {
                     Console.WriteLine("ISBN is empty. Will consider as missing.");
@@ -83,7 +83,8 @@
                 break;
             case 2:
                 Console.WriteLine("Enter title:");
-                string titleToRemove = Console.ReadLine();
+                string titleToRemove = string.Empty; 
+                titleToRemove = Console.ReadLine();
                 RemoveBook(titleToRemove);
                 break;
             case 3:
